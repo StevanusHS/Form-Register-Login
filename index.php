@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Home</title>
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link rel="stylesheet" href="./css/style.css">
+    <link href="./assets/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
 <body>
@@ -56,8 +56,8 @@
         </section>
     </main>
     <footer></footer>
-    <script src="./js/bootstrap.js"></script>
-    <script src="./js/popper.min.js"></script>
+    <script src="./assets/js/bootstrap.js"></script>
+    <script src="./assets/js/popper.min.js"></script>
 </body>
 
 </html>
