@@ -7,7 +7,7 @@
     <link href="./assets/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
-    <title>Home</title>
+    <title>Promo</title>
 </head>
 
 <body>
@@ -25,7 +25,7 @@
                             <a class="nav-link active text-light" aria-current="page" href="#">Home</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link text-light" href="promo.php">Promo</a>
+                            <a class="nav-link text-light" href="index.php">Promo</a>
                         </li>
                         <li class="nav-item ">
                             <a class="nav-link text-light" href="#">About</a>
@@ -48,72 +48,6 @@
     </header>
     <!-- end navbar -->
     <main>
-        <!-- banner -->
-        <section>
-            <div class="container-fluid banner">
-                <div class="container konten-banner col-lg-6">
-                    <div class="text-center">
-                        <p class="fs-1">Welcome to WarmingUP</p>
-                        <p class="d-none d-sm-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero iste quas aut quia? Alias unde, qui suscipit, hic dignissimos labore similique reiciendis laboriosam voluptate debitis voluptates atque, incidunt voluptatem veritatis.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- end banner -->
-        <section>
-            <!-- kategori -->
-            <div class="container-fluid mt-5">
-                <h1 class="fs-1 mb-5 d-flex justify-content-center">Kategori</h1>
-                <div class="row row-cols-1 row-cols-md-3 g-4">
-                    <div class="col">
-                        <div class="card h-100">
-                            <img src="./img/foodContoh.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Bento</h5>
-                                <p class="card-text">Lorem, ipsum dolor.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                            <img src="./img/foodContoh.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Makanan Berat</h5>
-                                <p class="card-text">Lorem, ipsum dolor.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                            <img src="./img/foodContoh.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Makanan Ringan</h5>
-                                <p class="card-text">Lorem, ipsum dolor.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                            <img src="./img/foodContoh.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Minuman</h5>
-                                <p class="card-text">Lorem, ipsum dolor.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100">
-                            <img src="./img/foodContoh.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Warmindo</h5>
-                                <p class="card-text">Lorem, ipsum dolor.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end kategori -->
-        </section>
         <!-- card rekomendasi makanan -->
         <section>
             <div class="container-fluid">

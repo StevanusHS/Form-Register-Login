@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
     margin: 0;
@@ -12,7 +12,10 @@
 header {
     width: 100%;
     background-image: linear-gradient(to right, #454955 , #909590);
+    font-family: 'Poppins';
 }
+
+
 
 /* banner */
 .banner {
@@ -29,3 +32,25 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+/* pilihan kategori */
+/* nanti dulu */
+
+
+
+
+
+/* card rekomendasi */
+.cards-wrap {
+    background-color: #2B2D42;
+    padding: 0.5rem;
+    justify-content: center;
+}
+
+.card {
+    margin:0 0.7rem;
+}
+
+
+
+/* footer */
